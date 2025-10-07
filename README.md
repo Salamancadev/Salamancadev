@@ -56,7 +56,7 @@
 ## 🤝 Contact Me
 
 <p align="center">
-  <a href="s.salamanca.r05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="mailto:s.salamanca.r05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
   <a href="https://www.linkedin.com/in/santiago-salamanca-98571a302/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="https://github.com/Salamancadev"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
   <a href="https://tuportafolio.com"><img src="https://skillicons.dev/icons?i=vercel" width="50"/></a>
