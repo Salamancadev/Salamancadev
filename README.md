@@ -46,7 +46,7 @@
 
 ## 📌 Currently
 
-- 🔨 Working on: **CBA PASS** — a QR-based access control system with Django + Vue.js  
+- 🔨 Working on: personal projects applying Django and Vue.js   
 - 💬 Learning: **APIs REST**, **deployment**, and **collaboration workflows**  
 - 📖 Practicing: documentation and good coding practices  
 
