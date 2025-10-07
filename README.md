@@ -38,7 +38,7 @@
 | 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue" height="40"/> |
 | 🛠️ **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi" height="40"/> |
 | 🗃️ **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,sqlite" height="40"/> |
-| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,docker,vscode,linux" height="40"/> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" height="40"/> |
 | 💻 **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,ubuntu" height="40"/> |
 
 <!--horizontal divider-->
@@ -56,9 +56,9 @@
 ## 🤝 Contact Me
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://github.com/SantiagoSalamanca"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <a href="s.salamanca.r05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://www.linkedin.com/in/santiago-salamanca-98571a302/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://github.com/Salamancadev"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
   <a href="https://tuportafolio.com"><img src="https://skillicons.dev/icons?i=vercel" width="50"/></a>
 </p>
 
