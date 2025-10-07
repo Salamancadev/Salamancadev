@@ -24,7 +24,7 @@
 - 🎓 I'm a **Software Development and AI student**, passionate about technology and learning.  
 - 💻 Focused on **Full-Stack Development** with **JavaScript** and **Python**.  
 - 🧩 I love creating clean, scalable, and user-centered solutions.  
-- 🚀 Currently building **CBA PASS**, a control access system with geolocation and QR codes using Vue.js, Django, and PostgreSQL.  
+- 🔨 Strengthening my foundations in **JavaScript** and **Python** through personal projects and continuous learning  
 - 🌱 Constantly improving my skills in **architecture, documentation, and collaboration**.
 
 <!--horizontal divider-->
